@@ -55,8 +55,8 @@
 										"$ref": "AAAAAAGGCPKPLIzakmw="
 									},
 									"font": "Arial;13;1",
-									"left": 200,
-									"top": 93,
+									"left": 408,
+									"top": 181,
 									"width": 86.3544921875,
 									"height": 13,
 									"text": "Film"
@@ -81,8 +81,8 @@
 												"$ref": "AAAAAAGGCPLnSozsI2w="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 116,
+											"left": 413,
+											"top": 204,
 											"width": 76.3544921875,
 											"height": 13
 										},
@@ -96,8 +96,8 @@
 												"$ref": "AAAAAAGGCPL4PIzz8lw="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 131,
+											"left": 413,
+											"top": 219,
 											"width": 76.3544921875,
 											"height": 13
 										},
@@ -111,8 +111,8 @@
 												"$ref": "AAAAAAGGCPMQ4Iz64NE="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 146,
+											"left": 413,
+											"top": 234,
 											"width": 76.3544921875,
 											"height": 13
 										},
@@ -126,22 +126,22 @@
 												"$ref": "AAAAAAGGCPMfTo0BwOE="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 161,
+											"left": 413,
+											"top": 249,
 											"width": 76.3544921875,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 200,
-									"top": 111,
+									"left": 408,
+									"top": 199,
 									"width": 86.3544921875,
 									"height": 68
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 200,
-							"top": 88,
+							"left": 408,
+							"top": 176,
 							"width": 86.3544921875,
 							"height": 106,
 							"nameLabel": {
@@ -168,8 +168,8 @@
 										"$ref": "AAAAAAGGCPOxT40M2Rk="
 									},
 									"font": "Arial;13;1",
-									"left": 472,
-									"top": 109,
+									"left": 408,
+									"top": 13,
 									"width": 85.61181640625,
 									"height": 13,
 									"text": "Genre"
@@ -194,22 +194,22 @@
 												"$ref": "AAAAAAGGCPPddI0eOZ8="
 											},
 											"font": "Arial;13;0",
-											"left": 477,
-											"top": 132,
+											"left": 413,
+											"top": 36,
 											"width": 75.61181640625,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 472,
-									"top": 127,
+									"left": 408,
+									"top": 31,
 									"width": 85.61181640625,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 472,
-							"top": 104,
+							"left": 408,
+							"top": 8,
 							"width": 85.61181640625,
 							"height": 61,
 							"nameLabel": {
@@ -236,8 +236,8 @@
 										"$ref": "AAAAAAGGCPPwDo0nr/M="
 									},
 									"font": "Arial;13;1",
-									"left": 480,
-									"top": 269,
+									"left": 616,
+									"top": 357,
 									"width": 85.61181640625,
 									"height": 13,
 									"text": "Pays"
@@ -262,22 +262,22 @@
 												"$ref": "AAAAAAGGCPQTmo05K1w="
 											},
 											"font": "Arial;13;0",
-											"left": 485,
-											"top": 292,
+											"left": 621,
+											"top": 380,
 											"width": 75.61181640625,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 480,
-									"top": 287,
+									"left": 616,
+									"top": 375,
 									"width": 85.61181640625,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 480,
-							"top": 264,
+							"left": 616,
+							"top": 352,
 							"width": 85.61181640625,
 							"height": 61,
 							"nameLabel": {
@@ -304,8 +304,8 @@
 										"$ref": "AAAAAAGGCPT8HY1Cjg4="
 									},
 									"font": "Arial;13;1",
-									"left": 200,
-									"top": 277,
+									"left": 184,
+									"top": 365,
 									"width": 85.61181640625,
 									"height": 13,
 									"text": "Casting"
@@ -330,22 +330,22 @@
 												"$ref": "AAAAAAGGCPVCq41UNdU="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 300,
+											"left": 189,
+											"top": 388,
 											"width": 75.61181640625,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 200,
-									"top": 295,
+									"left": 184,
+									"top": 383,
 									"width": 85.61181640625,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 200,
-							"top": 272,
+							"left": 184,
+							"top": 360,
 							"width": 85.61181640625,
 							"height": 61,
 							"nameLabel": {
@@ -353,6 +353,345 @@
 							},
 							"columnCompartment": {
 								"$ref": "AAAAAAGGCPT8HY1ElDY="
+							}
+						},
+						{
+							"_type": "ERDRelationshipView",
+							"_id": "AAAAAAGGGRAjBafao6o=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPI7I4zUvdQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGGRAjBKfWhks="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRAjBqfbPx4=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 464,
+									"top": 115,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRAjBqfcE84=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"font": "Arial;13;0",
+									"left": 471,
+									"top": 79,
+									"width": 26.71728515625,
+									"height": 13,
+									"alpha": 1.0838971240126287,
+									"distance": 38.47076812334269,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"edgePosition": 2,
+									"text": "films"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRAjBqfdsGE=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"font": "Arial;13;0",
+									"left": 472,
+									"top": 144,
+									"width": 39.7490234375,
+									"height": 13,
+									"alpha": -1.0056469045052414,
+									"distance": 48.54894437575342,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRAjBafao6o="
+									},
+									"text": "genres"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGGCPKPLIzakmw="
+							},
+							"tail": {
+								"$ref": "AAAAAAGGCPOxT40M2Rk="
+							},
+							"lineStyle": 2,
+							"points": "450:68;450:176",
+							"nameLabel": {
+								"$ref": "AAAAAAGGGRAjBqfbPx4="
+							},
+							"tailNameLabel": {
+								"$ref": "AAAAAAGGGRAjBqfcE84="
+							},
+							"headNameLabel": {
+								"$ref": "AAAAAAGGGRAjBqfdsGE="
+							}
+						},
+						{
+							"_type": "ERDRelationshipView",
+							"_id": "AAAAAAGGGRE6/6fyC+w=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPI7I4zUvdQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGGRE6/qfuqJU="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRE6/6fztXw=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									},
+									"font": "Arial;13;0",
+									"left": 575,
+									"top": 320,
+									"width": 26.71728515625,
+									"height": 13,
+									"alpha": 0.2671424940643373,
+									"distance": 98.49365461794989,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									},
+									"edgePosition": 1,
+									"text": "films"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRE6/6f0TXU=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									},
+									"font": "Arial;13;0",
+									"left": 519,
+									"top": 288,
+									"width": 27.4599609375,
+									"height": 13,
+									"alpha": 1.2565643603533176,
+									"distance": 42.05948168962618,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									},
+									"edgePosition": 2,
+									"text": "pays"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRE6/6f1+1Q=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									},
+									"font": "Arial;13;0",
+									"left": 590,
+									"top": 331,
+									"height": 13,
+									"alpha": -0.5235987755982988,
+									"distance": 30,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRE6/6fyC+w="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGGCPPwDo0nr/M="
+							},
+							"tail": {
+								"$ref": "AAAAAAGGCPKPLIzakmw="
+							},
+							"lineStyle": 2,
+							"points": "493:281;493:352;616:352",
+							"nameLabel": {
+								"$ref": "AAAAAAGGGRE6/6fztXw="
+							},
+							"tailNameLabel": {
+								"$ref": "AAAAAAGGGRE6/6f0TXU="
+							},
+							"headNameLabel": {
+								"$ref": "AAAAAAGGGRE6/6f1+1Q="
+							}
+						},
+						{
+							"_type": "ERDRelationshipView",
+							"_id": "AAAAAAGGGRHfDqgKHPM=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPI7I4zUvdQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGGRHfDagG4Eg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRHfDqgLhcs=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 407,
+									"top": 369,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRHfDqgMtPk=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"font": "Arial;13;0",
+									"left": 342,
+									"top": 287,
+									"width": 42.630859375,
+									"height": 13,
+									"alpha": -1.283514938222308,
+									"distance": 45.880278987817846,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"edgePosition": 2,
+									"text": "acteurs"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRHfDqgNwmc=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"font": "Arial;13;0",
+									"left": 255,
+									"top": 328,
+									"width": 88.86083984375,
+									"height": 13,
+									"alpha": 0.71409053363757,
+									"distance": 39.698866482558415,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRHfDqgKHPM="
+									},
+									"text": "filmsInterpretes"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGGCPT8HY1Cjg4="
+							},
+							"tail": {
+								"$ref": "AAAAAAGGCPKPLIzakmw="
+							},
+							"lineStyle": 2,
+							"points": "408:281;408:360;269:360",
+							"nameLabel": {
+								"$ref": "AAAAAAGGGRHfDqgLhcs="
+							},
+							"tailNameLabel": {
+								"$ref": "AAAAAAGGGRHfDqgMtPk="
+							},
+							"headNameLabel": {
+								"$ref": "AAAAAAGGGRHfDqgNwmc="
+							}
+						},
+						{
+							"_type": "ERDRelationshipView",
+							"_id": "AAAAAAGGGRJ6yKgjnCI=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPI7I4zUvdQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGGGRJ6yKgfhec="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRJ6yKgkWvw=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 226,
+									"top": 219,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRJ6yKglPwU=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"font": "Arial;13;0",
+									"left": 126,
+									"top": 328,
+									"width": 76.57177734375,
+									"height": 13,
+									"alpha": -5.115300547036107,
+									"distance": 66.30987860040162,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"edgePosition": 2,
+									"text": "filmsRealises"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGGGRJ6yKgmf8U=",
+									"_parent": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"font": "Arial;13;0",
+									"left": 320,
+									"top": 218,
+									"width": 67.1962890625,
+									"height": 13,
+									"alpha": -0.26625209530477933,
+									"distance": 57.0087712549569,
+									"hostEdge": {
+										"$ref": "AAAAAAGGGRJ6yKgjnCI="
+									},
+									"text": "realisateurs"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGGCPKPLIzakmw="
+							},
+							"tail": {
+								"$ref": "AAAAAAGGCPT8HY1Cjg4="
+							},
+							"lineStyle": 2,
+							"points": "226:360;226:240;408:240",
+							"nameLabel": {
+								"$ref": "AAAAAAGGGRJ6yKgkWvw="
+							},
+							"tailNameLabel": {
+								"$ref": "AAAAAAGGGRJ6yKglPwU="
+							},
+							"headNameLabel": {
+								"$ref": "AAAAAAGGGRJ6yKgmf8U="
 							}
 						}
 					]
@@ -364,6 +703,70 @@
 						"$ref": "AAAAAAGGCPI7IozT7/4="
 					},
 					"name": "Film",
+					"ownedElements": [
+						{
+							"_type": "ERDRelationship",
+							"_id": "AAAAAAGGGRE6/qfuqJU=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPKPLIzYvHg="
+							},
+							"name": "films",
+							"end1": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRE6/qfvtO4=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRE6/qfuqJU="
+								},
+								"name": "pays",
+								"reference": {
+									"$ref": "AAAAAAGGCPKPLIzYvHg="
+								},
+								"cardinality": "0..*"
+							},
+							"end2": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRE6/qfw2zs=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRE6/qfuqJU="
+								},
+								"reference": {
+									"$ref": "AAAAAAGGCPPwDo0lfQw="
+								},
+								"cardinality": "0..*"
+							}
+						},
+						{
+							"_type": "ERDRelationship",
+							"_id": "AAAAAAGGGRHfDagG4Eg=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPKPLIzYvHg="
+							},
+							"end1": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRHfDagHENU=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRHfDagG4Eg="
+								},
+								"name": "acteurs",
+								"reference": {
+									"$ref": "AAAAAAGGCPKPLIzYvHg="
+								},
+								"cardinality": "0..*"
+							},
+							"end2": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRHfDagIE2k=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRHfDagG4Eg="
+								},
+								"name": "filmsInterpretes",
+								"reference": {
+									"$ref": "AAAAAAGGCPT8HY1AS3s="
+								},
+								"cardinality": "0..*"
+							}
+						}
+					],
 					"columns": [
 						{
 							"_type": "ERDColumn",
@@ -410,6 +813,39 @@
 						"$ref": "AAAAAAGGCPI7IozT7/4="
 					},
 					"name": "Genre",
+					"ownedElements": [
+						{
+							"_type": "ERDRelationship",
+							"_id": "AAAAAAGGGRAjBKfWhks=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPOxT40KaCQ="
+							},
+							"end1": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRAjBKfXxHg=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRAjBKfWhks="
+								},
+								"name": "films",
+								"reference": {
+									"$ref": "AAAAAAGGCPOxT40KaCQ="
+								},
+								"cardinality": "0..*"
+							},
+							"end2": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRAjBKfYceE=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRAjBKfWhks="
+								},
+								"name": "genres",
+								"reference": {
+									"$ref": "AAAAAAGGCPKPLIzYvHg="
+								},
+								"cardinality": "0..*"
+							}
+						}
+					],
 					"columns": [
 						{
 							"_type": "ERDColumn",
@@ -448,6 +884,39 @@
 						"$ref": "AAAAAAGGCPI7IozT7/4="
 					},
 					"name": "Casting",
+					"ownedElements": [
+						{
+							"_type": "ERDRelationship",
+							"_id": "AAAAAAGGGRJ6yKgfhec=",
+							"_parent": {
+								"$ref": "AAAAAAGGCPT8HY1AS3s="
+							},
+							"end1": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRJ6yKggfCM=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRJ6yKgfhec="
+								},
+								"name": "filmsRealises",
+								"reference": {
+									"$ref": "AAAAAAGGCPT8HY1AS3s="
+								},
+								"cardinality": "0..*"
+							},
+							"end2": {
+								"_type": "ERDRelationshipEnd",
+								"_id": "AAAAAAGGGRJ6yKghqmY=",
+								"_parent": {
+									"$ref": "AAAAAAGGGRJ6yKgfhec="
+								},
+								"name": "realisateurs",
+								"reference": {
+									"$ref": "AAAAAAGGCPKPLIzYvHg="
+								},
+								"cardinality": "0..*"
+							}
+						}
+					],
 					"columns": [
 						{
 							"_type": "ERDColumn",

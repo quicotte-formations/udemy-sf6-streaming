@@ -1,0 +1,7 @@
++ Dans AppFixtures:
+-------------------
+
+FILM                        ANNEE       DUREE       REALISATEUR         PAYS        GENRE
+Nosferatu                   1922        94          Friedrich Murnau    Allemagne   Fantastique
+Les Bas-Fonds               1957        137         Akira Kurosawa      Japon       Action
+Entre le ciel et l'enfer    1963        143         Akira Kurosawa      Japon       Action,Fantastique
